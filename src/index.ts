@@ -1,5 +1,5 @@
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type React from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 
 export interface UseDropzoneOptions {
 	/** Disable all dropzone interactions (drag, click, programmatic open). */
